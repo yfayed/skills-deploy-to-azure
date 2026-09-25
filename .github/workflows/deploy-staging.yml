@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace yfayed with GitHub username ###
+  ### Replace yfayed with GitHub username ####
   ###############################################
   DOCKER_IMAGE_NAME: yfayed-azure-ttt
   AZURE_WEBAPP_NAME: yfayed-ttt-app
